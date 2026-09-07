@@ -1,0 +1,19 @@
+image_id,predicted_class,confidence,x1,y1,x2,y2,conf_threshold
+test01.jpg,whole garlic bulb,0.7936,227.35,145.02,440.19,302.75,0.1
+test02.jpg,whole garlic bulb,0.7149,252.65,114.63,487.16,303.34,0.1
+test02.jpg,red apple,0.5777,252.31,114.63,486.96,303.39,0.1
+test03.jpg,red apple,0.8974,223.52,129.99,482.06,387.5,0.1
+test04.jpg,red apple,0.4456,159.19,106.77,524.6,464.64,0.1
+test05.jpg,red apple,0.4503,166.0,107.14,524.39,460.03,0.1
+test06.jpg,red apple,0.3782,225.86,108.43,498.11,377.26,0.1
+test07.jpg,red apple,0.7724,324.32,86.3,452.55,216.31,0.1
+test08.jpg,game controller,0.1614,0.0,162.5,423.35,391.32,0.1
+test08.jpg,metal key,0.1145,51.73,182.16,406.37,388.6,0.1
+test09.jpg,NO_DETECTION,,,,,,0.1
+test10.jpg,metal key,0.273,170.25,167.5,261.89,255.18,0.1
+test10.jpg,metal key,0.1274,267.9,232.76,316.81,263.29,0.1
+test11.jpg,black eyeglasses,0.1158,0.0,294.03,559.4,451.39,0.1
+test12.jpg,black eyeglasses,0.2598,52.76,129.72,599.82,349.77,0.1
+test13.jpg,NO_DETECTION,,,,,,0.1
+test14.jpg,NO_DETECTION,,,,,,0.1
+test15.jpg,NO_DETECTION,,,,,,0.1

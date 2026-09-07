@@ -4,7 +4,7 @@ from ultralytics import YOLO
 coco_model = YOLO("./models/yolo11n.pt")  # Load a pretrained YOLOv11 model
 
 
-cap = cv2.VideoCapture(0)  # Open a video file
+cap = cv2.VideoCapture(1)  # Open a video file
 
 # read frames
 frame_number = -1
@@ -35,9 +35,17 @@ while ret:
                     2,
                 )
         cv2.imshow("YOLOv11 Detection", frame)
-        if cv2.waitKey(1) & 0xFF == ord("q"):
-            break
 
+        key = cv2.waitKey(1) & 0xFF
+
+        if key == ord("s"):
+            filename = f"capture_{frame_number}.jpg"
+            cv2.imwrite(filename, frame)
+            print(f"Saved: {filename}")
+
+        elif key == ord("q"):
+            break        
 
 cap.release()  # Release the video capture object
 cv2.destroyAllWindows()  # Close all OpenCV windows
+

@@ -1,0 +1,16 @@
+image_id,predicted_class,confidence,x1,y1,x2,y2,conf_threshold,ground_truth,evaluation
+test01.jpg,garlic,0.9154,196.78,106.11,475.77,342.75,0.5,garlic,correct
+test02.jpg,garlic,0.8887,212.43,86.42,511.64,343.29,0.5,garlic,correct
+test03.jpg,apple,0.9803,186.23,79.33,516.06,428.43,0.5,apple,correct
+test04.jpg,apple,0.983,129.27,15.99,566.43,477.07,0.5,apple,correct
+test05.jpg,apple,0.9875,132.47,19.43,570.11,480.0,0.5,apple,correct
+test06.jpg,apple,0.9619,187.03,32.33,541.58,430.17,0.5,apple,correct
+test07.jpg,apple,0.9134,273.06,47.11,491.59,245.18,0.5,apple,correct
+test08.jpg,key,0.9636,0.98,157.55,468.18,480.0,0.5,key,correct
+test09.jpg,key,0.9908,197.99,107.26,524.88,480.0,0.5,key,correct
+test10.jpg,game_controller,0.5766,3.73,21.16,597.9,427.68,0.5,game_controller,correct
+test11.jpg,glasses,0.7779,0.0,252.38,631.82,480.0,0.5,glasses,correct
+test12.jpg,glasses,0.9632,20.83,82.82,640.0,424.93,0.5,glasses,correct
+test13.jpg,green_chili,0.8084,204.46,133.58,547.1,261.48,0.5,green_chili,correct
+test14.jpg,green_chili,0.9369,234.16,76.01,452.28,434.06,0.5,green_chili,correct
+test15.jpg,green_chili,0.9203,231.09,78.18,454.41,437.76,0.5,green_chili,correct

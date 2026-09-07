@@ -1,0 +1,37 @@
+image_id,predicted_class,confidence,x1,y1,x2,y2,conf_threshold
+test01.jpg,round purple garlic bulb with striped skin,0.863,227.35,145.02,440.19,302.75,0.1
+test01.jpg,dark red apple with a visible stem,0.5844,228.03,145.01,440.14,302.54,0.1
+test01.jpg,small curved wrinkled green chili pepper on a wooden table,0.1625,0.0,187.08,639.6,478.71,0.1
+test02.jpg,round purple garlic bulb with striped skin,0.8897,252.82,114.53,487.23,303.38,0.1
+test02.jpg,dark red apple with a visible stem,0.8335,252.84,114.5,487.07,303.5,0.1
+test02.jpg,small curved wrinkled green chili pepper on a wooden table,0.1358,0.13,80.5,639.91,478.72,0.1
+test03.jpg,dark red apple with a visible stem,0.9597,223.54,129.66,482.66,387.47,0.1
+test03.jpg,black round eyeglasses lying on a wooden table,0.2721,235.96,127.99,347.16,193.22,0.1
+test03.jpg,small brass house key lying on a wooden table,0.2656,236.29,127.57,346.6,192.87,0.1
+test04.jpg,dark red apple with a visible stem,0.8407,159.19,106.77,524.6,464.64,0.1
+test04.jpg,black round eyeglasses lying on a wooden table,0.3457,211.35,45.22,350.78,152.54,0.1
+test05.jpg,dark red apple with a visible stem,0.8224,166.0,107.14,524.39,460.03,0.1
+test05.jpg,black round eyeglasses lying on a wooden table,0.3723,217.29,46.64,352.14,151.06,0.1
+test06.jpg,dark red apple with a visible stem,0.8505,225.86,108.43,498.11,377.26,0.1
+test06.jpg,black round eyeglasses lying on a wooden table,0.3042,267.58,66.61,366.57,143.6,0.1
+test06.jpg,small brass house key lying on a wooden table,0.1256,268.25,66.39,366.09,143.84,0.1
+test07.jpg,dark red apple with a visible stem,0.9471,324.34,86.38,452.52,216.27,0.1
+test08.jpg,small brass house key lying on a wooden table,0.4358,51.73,182.16,406.37,388.6,0.1
+test08.jpg,black round eyeglasses lying on a wooden table,0.3285,0.0,160.44,421.07,390.68,0.1
+test08.jpg,black round eyeglasses lying on a wooden table,0.145,0.0,157.88,115.53,308.01,0.1
+test08.jpg,black round eyeglasses lying on a wooden table,0.1166,0.0,229.66,116.37,303.01,0.1
+test09.jpg,black round eyeglasses lying on a wooden table,0.1381,0.0,0.0,473.46,477.07,0.1
+test09.jpg,black round eyeglasses lying on a wooden table,0.1265,0.13,0.0,474.82,141.68,0.1
+test09.jpg,small brass house key lying on a wooden table,0.1201,254.16,142.4,408.04,479.48,0.1
+test10.jpg,red video game controller with two joysticks,0.6758,19.07,53.28,575.74,429.3,0.1
+test10.jpg,small brass house key lying on a wooden table,0.6587,170.25,167.5,261.89,255.18,0.1
+test10.jpg,black round eyeglasses lying on a wooden table,0.2581,170.16,167.49,262.01,255.16,0.1
+test11.jpg,black round eyeglasses lying on a wooden table,0.7407,0.42,293.95,558.22,452.51,0.1
+test11.jpg,red video game controller with two joysticks,0.3724,19.09,158.93,224.21,238.14,0.1
+test11.jpg,black round eyeglasses lying on a wooden table,0.1429,261.61,293.47,557.49,432.22,0.1
+test11.jpg,black round eyeglasses lying on a wooden table,0.1174,0.03,303.52,280.08,450.77,0.1
+test12.jpg,black round eyeglasses lying on a wooden table,0.7362,53.87,129.9,600.03,350.45,0.1
+test12.jpg,small brass house key lying on a wooden table,0.1366,52.36,180.52,80.4,197.67,0.1
+test13.jpg,small curved wrinkled green chili pepper on a wooden table,0.2806,233.17,172.94,503.96,245.1,0.1
+test14.jpg,NO_DETECTION,,,,,,0.1
+test15.jpg,NO_DETECTION,,,,,,0.1
